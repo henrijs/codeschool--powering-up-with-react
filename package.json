@@ -1,0 +1,14 @@
+{
+  "name": "codeschool--powering-up-with-react",
+  "version": "1.0.0",
+  "description": "http://campus.codeschool.com/courses/powering-up-with-react/",
+  "main": "index.js",
+  "repository": {},
+  "author": "Henrijs Seso <henrijs.seso@wunder.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-standalone": "^6.24.0",
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3"
+  }
+}

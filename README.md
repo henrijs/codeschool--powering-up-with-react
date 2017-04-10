@@ -1,0 +1,1 @@
+Have `node --version` be v7.1.0 or above, have yarn.js installed globally with `npm install yarn -g`. Do `yarn install` to get stack.
