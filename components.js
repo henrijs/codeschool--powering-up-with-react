@@ -1,6 +1,14 @@
 class Demo extends React.Component {
   render() {
-    return(<div className="demo">Demo of super simple React setup.</div>);
+    const things = ['one', 'two', 'three', 'four'];
+    return(
+      <section className="demo-contents">
+        <h3>Demo of super simple React setup.</h3>
+        <ul>
+          {things.map(thing => <li>{thing}</li>)}
+        </ul>
+      </section>
+    );
   }
 }
 
